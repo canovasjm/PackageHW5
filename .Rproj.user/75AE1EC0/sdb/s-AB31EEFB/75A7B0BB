@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: PackageHW5\nType: Package\nTitle: Returns a randomly chosen letter of the alphabet\nLicense: MIT\nVersion: 0.1.0\nAuthor: Juan M Canovas\nMaintainer: Juan M Canovas <jcanovas@none.com>\nDescription: This package was created for STAT 421 class. It contains only one function called ex_1() which returns a randomly chosen letter of the alphabet\nEncoding: UTF-8\nLazyData: true\nRoxygenNote: 6.0.1\n",
+    "created" : 1524437985855.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2193196619",
+    "id" : "75A7B0BB",
+    "lastKnownWriteTime" : 1524438030,
+    "last_content_update" : 1524438030,
+    "path" : "~/STAT 421/Homework/HW 5/PackageHW5/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+        "source_window_id" : ""
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "dcf"
+}

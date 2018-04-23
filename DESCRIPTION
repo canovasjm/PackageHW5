@@ -1,0 +1,11 @@
+Package: PackageHW5
+Type: Package
+Title: Returns a randomly chosen letter of the alphabet
+License: MIT
+Version: 0.1.0
+Author: Juan M Canovas
+Maintainer: Juan M Canovas <jcanovas@none.com>
+Description: This package was created for STAT 421 class. It contains only one function called ex_1() which returns a randomly chosen letter of the alphabet
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
